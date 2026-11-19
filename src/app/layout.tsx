@@ -1,0 +1,1 @@
+import "./globals.css";export const metadata={title:"Trip Memories",description:"Private trip photo and video albums"};export default function RootLayout({children}:{children:React.ReactNode}){return <html lang="en"><body>{children}</body></html>}
